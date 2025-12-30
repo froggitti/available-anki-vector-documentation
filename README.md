@@ -42,6 +42,8 @@ Language: Easy
 ## [Unlocking Vector (CPU SWAP)](https://github.com/kercre123/unlocking-vector)
 A guide on how to unlock production bots via cpu swap, includes other useful info too!
 
+(CPU swapping isn't needed anymore to unlock bots, see [how to unlock prod bots](https://unlock-prod.froggitti.net/))
+
 Language: Extremely Technical
 
 ## [OSKR Owner's Manual](https://modder.my.to/oskr-owners-manual/index.html)
@@ -51,7 +53,14 @@ A bit outdated and about OSKR, but still usefull for dev purposes.
 Language: Technical
 
 ## [Wikipedia page](https://en.wikipedia.org/wiki/Anki_(American_company)#Vector)
+
 Wikipedia page, mostly about Vector's history.
+
+Language: Easy
+
+# [Vector prototypes](https://github.com/claudix29/available-anki-vector-documentation/blob/main/documents/vector-prototypes.md)
+
+Vector's developmental stages
 
 Language: Easy
 
@@ -75,4 +84,8 @@ Language: Easy
 
 Gives you access to the bluetooth terminal.
 
-Usage difficulty: medium
+Usage difficulty: Medium
+
+## SSH custom commands
+
+DEV OTAs give SHH access to the linux system. It's useful to know the custom Vector commands
